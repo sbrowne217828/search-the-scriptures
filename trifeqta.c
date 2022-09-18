@@ -6,7 +6,20 @@
 
 
 //trifeqta bible search algorithm Faith, Hope and Charity as God's merciful watering of other new Christians
-//God the Father, Jesus the son, and the spirit of truth as the Holy Spirit
+//God the Father, Jesus the son, and the Holy Spirit
+
+
+//donut.c code that creates a tokamak shape
+
+//first create simple ascii art of trifeqta trinity symbol
+
+//include pointers to Genesis 1:1, and John 1:1 and Psalm 117 118 and 119
+
+//mother tongue of english allows readability in America for constitution and bill of rights
+
+//original allepo codex and septuagint allow for reconnection of new testament fragments from after Nero's persecution ~3.5 years
+
+//incorporating revelation and psalm 119 increases coherence of Bible letters
 
 #define R(intea,shift,x,y) \
   _=x; \
